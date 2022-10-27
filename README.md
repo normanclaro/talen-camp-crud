@@ -18,3 +18,6 @@ En routes/web agregue la ruta del controlador llamado ClientController.php.
 Con php artisan route:list cree las diferentes rutas para client.
 En views cree la carpeta client donde estan los dos files form.blade e index.blade.
 En estos dos archivos creo los diferentes forms para crear el CRUD. En ambos archivos ademas de ClientController.php, estan las diferentes validaciones correspondientes.
+
+DEMOSTRACION (no me sale el audio!)
+chrome-extension://igkkmokkmlbkkgdnkkancbonkbbmkioc/preview/preview.html?id=1666906321480
